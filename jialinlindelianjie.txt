@@ -1,0 +1,9 @@
+https://erlinta.github.io/mi/index.html   
+小米官网网址
+
+https://erlinta.github.io/jinritoutiao/  今日头条首页
+https://erlinta.github.io/jinritoutiao/er.html   今日头条内页
+https://erlinta.github.io/jinritoutiao/shan.html   闪屏页
+
+
+注：首页和内页   刚打开会出现乱的情况  刷新一下就好了
