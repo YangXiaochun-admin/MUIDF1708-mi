@@ -1,0 +1,7 @@
+小米	https://544246553.github.io/xiaomi/
+头条	https://544246553.github.io/toutiao/
+
+	首页	https://544246553.github.io/toutiao/index.html
+	推荐	https://544246553.github.io/toutiao/tuijian.html
+	闪屏	https://544246553.github.io/toutiao/shanping.html
+	天气	https://544246553.github.io/toutiao/weather.html
