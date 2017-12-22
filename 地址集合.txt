@@ -1,5 +1,6 @@
 小米	https://544246553.github.io/xiaomi/
 头条	https://544246553.github.io/toutiao/
+旅游	https://544246553.github.io/lvyouqiyezhan/index.html
 
 	首页	https://544246553.github.io/toutiao/index.html
 	推荐	https://544246553.github.io/toutiao/tuijian.html
